@@ -1,7 +1,9 @@
 node_modules/
 .DS_Store
 .env
+*.csv
 *.zip
+*.gz
 .idea/
 .idea/vcs.xml
 .ipynb_checkpoints/
