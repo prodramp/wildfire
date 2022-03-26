@@ -9,3 +9,7 @@ package-lock.json
 __pycache__
 wave/
 great_expectations/
+wildfire-data/
+zips_modis/
+zips_viirs/
+
