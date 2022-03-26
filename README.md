@@ -1,4 +1,4 @@
-# wildfire
+# Wildfire - Learn and Protect with technology #
 Wildfire Project - Create solutions in AML, Streamlit, CoreUI, ChakraUI
 
 ## Dataset creation ##
