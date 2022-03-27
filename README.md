@@ -21,11 +21,11 @@ Create wildfire dataset for any country by your own using NASA MODIS satellite d
 - [Get the App and try it](https://github.com/prodramp/wildfire/tree/main/wildfire-data-streamlit)
 
 ## California Wildfire Dataset Zip files (until March 25th 2022) ##
-- Train (2000 - 2019)
+- Train (2000 - 2019) - Total 1071252 records in 12 columns
   - https://github.com/prodramp/wildfire/raw/main/california-data/ca_fire_train.csv.zip
-- Validation Dataset (2020 and 2021)
+- Validation Dataset (2020 and 2021) - Total 117936 records in 12 columns
   - https://github.com/prodramp/wildfire/raw/main/california-data/ca_fire_valid.csv.zip
-- Test Dataset (Jan - March 2022) 
+- Test Dataset (Jan - March 2022) - Total 14742 records in 12 columns
   - https://github.com/prodramp/wildfire/raw/main/california-data/ca_fire_test.csv.zip
 
 
