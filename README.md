@@ -18,3 +18,13 @@ Create wildfire dataset for any country by your own using NASA MODIS satellite d
 
 ## Streamlit application to visualization wildfire data for any country by year ##
 - [Get the App and try it](https://github.com/prodramp/wildfire/tree/main/wildfire-data-streamlit)
+
+
+
+### Resources: ###
+- https://medium.com/ibm-data-ai/predicting-australian-wildfires-with-weather-forecast-data-8d1cc983c863
+- https://github.com/Call-for-Code/Spot-Challenge-Wildfires
+- https://h2o.ai/wildfire/
+- https://github.com/h2oai/challenge-wildfires/blob/main/notebook/DataPreparation.ipynb
+- https://github.com/mapbox/mapboxgl-jupyter
+- https://www.bigendiandata.com/2017-06-27-Mapping_in_Jupyter/
