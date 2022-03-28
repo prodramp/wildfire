@@ -20,6 +20,8 @@ Create wildfire dataset for any country by your own using NASA MODIS satellite d
 ## Wildfire Hotspot Prediction ## 
 ![Strategy](https://github.com/prodramp/wildfire/blob/main/images/wildfire-hotspot-strategy.png?raw=true)
 
+CA Wildfire Hotspot Visualization
+![Hotspot](https://github.com/prodramp/wildfire/blob/main/images/ca-wildfire-hotspot.png?raw=true)
 
 
 ## Streamlit application to visualization wildfire data for any country by year ##
