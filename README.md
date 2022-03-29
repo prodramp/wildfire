@@ -1,6 +1,12 @@
 # Wildfire - Learn and Protect with technology #
 Wildfire Project - Create solutions in AML, Streamlit, CoreUI, ChakraUI
 
+YouTube Video:
+- Predicting Wildfire Hotspots: Combating California wildfire problem with data and AI/ML
+  - https://www.youtube.com/watch?v=mlUcDCKSbOs
+- Worldwide Wildfire Data Collection: Combating worldwide wildfire problem with data and AI/ML
+  - https://youtu.be/Hf04iW-lT-A
+
 ## Dataset Source Info ## 
 - Wildfire data is collected from two instruments (MODIS and VIIRS):
   - Moderate Resolution Imaging Spectroradiometer (MODIS) aboard the Aqua and Terra satellites, 
